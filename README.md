@@ -3,7 +3,7 @@ I'm a Frontend developer working with ♥ in [React](https://reactjs.org).
 
 <br/>
 
-<a href="https://www.linkedin.com/in/mateocostab/>
+<a href="https://www.linkedin.com/in/mateocostab/">
 <img align="left" alt="Mateo Costa LinkedIn" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
 </a>
 
